@@ -1,6 +1,5 @@
 = ASCIIDoctor Test
-:outfilesuffix: .adoc
-
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 include::attributes{outfilesuffix}[]
 
 This is an example to test asciidoctor {project-version}

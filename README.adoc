@@ -1,0 +1,8 @@
+= ASCIIDoctor Test
+:outfilesuffix: .adoc
+
+include::attributes{outfilesuffix}[]
+
+This is an example to test asciidoctor {project-version}
+
+Test
